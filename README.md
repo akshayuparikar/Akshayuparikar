@@ -1,7 +1,5 @@
 # Hi there, I'm Akshay Uparikar 👋
 
-![Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
-
 ## 🚀 About Me
 - 🎓 PG-DAC @ CDAC Bengaluru (Aug 2025 – Feb 2026)  
 - 🎓 B.E. in Computer Science & Engineering @ PRMIT&R (CGPA: 8.98, 2024)  
