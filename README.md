@@ -17,7 +17,7 @@
 
 ---
 
-## 📂 Featured Projects
+📂 Featured Projects
 ### 🔹 [Car Parking Management System](https://github.com/akshayuparikar)  
 *PG Diploma Project (Nov 2025 – Jan 2026)*  
 - MERN stack web app for automated parking space management  
