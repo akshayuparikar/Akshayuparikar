@@ -1,6 +1,6 @@
 # Hi there, I'm Akshay Uparikar 👋
 
-## 🚀 About Me
+🚀 About Me
 - 🎓 PG-DAC @ CDAC Bengaluru (Aug 2025 – Feb 2026)  
 - 🎓 B.E. in Computer Science & Engineering @ PRMIT&R (CGPA: 8.98, 2024)  
 - 💻 Passionate about **backend development, full-stack applications, and problem-solving**  
@@ -9,7 +9,7 @@
 
 ---
 
-## 🛠️ Technical Skills
+🛠️ Technical Skills
 - **Languages:** Java, C++, Python, JavaScript, HTML, CSS  
 - **Frameworks & Libraries:** Spring Boot, Spring Security, Spring Data JPA, Node.js, NumPy, Pandas  
 - **Databases:** MySQL, SQL, MongoDB  
@@ -38,34 +38,34 @@
 
 ---
 
-## 📜 Certificates
+📜 Certificates
 - **Java** – IIT Bombay (Spoken Tutorial Project)  
 - **MySQL, C++** – HackerRank  
 - **HTML, CSS, JavaScript** – LinkedIn Learning  
 
 ---
 
-## 🎯 Extracurriculars
+ 🎯 Extracurriculars
 - 🏆 21 Days Coding Contest @ DYPCOE, Akurdi (Jan 2022)  
 - Solved **60+ coding problems**, strengthening problem-solving skills  
 
 ---
 
-## 💻 Competitive Programming Profiles
+💻 Competitive Programming Profiles
 - 🟠 [LeetCode](https://leetcode.com/u/akshayuparikar)  
 - 🔵 [CodeChef](https://www.codechef.com/users/akshay_4219)  
 - 🟢 [HackerRank](https://www.hackerrank.com/profile/akshayuparikar21)  
 
 ---
 
-## 📊 GitHub Stats
+📊 GitHub Stats
 ![Akshay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshayuparikar&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshayuparikar&layout=compact&theme=radical)  
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=akshayuparikar&theme=radical)  
 
 ---
 
-## 📫 Connect With Me
+📫 Connect With Me
 - 📧 Email: [akshayuparikar2002@gmail.com](mailto:akshayuparikar2002@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/akshay-uparikar](https://linkedin.com/in/akshay-uparikar)  
 - 💻 GitHub: [github.com/akshayuparikar](https://github.com/akshayuparikar)  
